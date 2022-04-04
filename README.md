@@ -4,7 +4,7 @@
 
 EOS is based in the Jansens Linkage , an eleven-bar mechanism designed by Theo Janssen.
 
-We can see the structure of the leg looking the next picture:
+We can understand the structure of the leg looking the next picture:
 
 ![](https://github.com/Aleph8/EOS/blob/main/project_pictures/measures.jpg)
 
