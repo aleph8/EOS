@@ -1,5 +1,12 @@
 # Electronic Open Strandbeest (EOS)
 
+**Description**
+
+EOS is based in the Jansens Linkage , an eleven-bar mechanism designed by Theo Janssen.
+
+We can see the structure of the leg looking the next picture:
+
+![](https://github.com/Aleph8/EOS/blob/main/project_pictures/measures.jpg)
 
 Offline: This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit
 http://creativecommons.org/licenses/by/4.0/.
