@@ -16,6 +16,34 @@ EOS intends to encourage anyone who has an interest to build their own version o
 
 In the electronics section you will find all the models uploaded until today
 
+**First of all** 
+
+If you are interested in the project... you can make a reduced and simplified version of it ! (as much as possible)
+
+You only need: 
+
+x1 basic_chasis_connector
+
+x2 basic_chassis
+
+x2 basic_center_gear
+
+x4 basic_gears
+
+x4 basic_F
+
+x4 basic_T
+
+x4 basic_b
+
+x4 basic_c
+
+x8 basic_a
+
+You can see the electronics requeriments and connections in the following picture:
+
+![](https://github.com/Aleph8/EOS/blob/main/circuits/eos_v0_the_simplest_circuit.png)
+
 **Links**
 
 There are different versions of the project; you can see some demos in the following links
