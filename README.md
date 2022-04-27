@@ -2,7 +2,7 @@
 
 **Description**
 
-EOS is based in the Jansens Linkage , an eleven-bar mechanism designed by Theo Janssen.
+EOS is based in the Jansen Linkage , an eleven-bar mechanism designed by Theo Jansen.
 
 We can understand the structure of the leg looking the next picture:
 
